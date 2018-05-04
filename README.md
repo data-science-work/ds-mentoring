@@ -6,9 +6,12 @@ TODO:
 - [ ] Writing mentoring plan
 - [ ] List of models to study
 
+
+##Table of Content
 <!-- TOC -->
 
 - [Data Science Mentoring](#data-science-mentoring)
+    - [Table of Content](#table-of-content)
     - [Mentoring Plan](#mentoring-plan)
         - [Model List](#model-list)
         - [Approach](#approach)
