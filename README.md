@@ -7,7 +7,7 @@ TODO:
 - [ ] List of models to study
 
 
-##Table of Content
+## Table of Content
 <!-- TOC -->
 
 - [Data Science Mentoring](#data-science-mentoring)
